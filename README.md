@@ -1,6 +1,6 @@
 # project1-template1-flex
 
-**If you have a lot of information to display on your site, why don't you use my accordion menu**
+
 
 ![view-t1](https://github.com/Nasim1380p/project1-template1-flex/assets/155636802/027cb01a-98f2-4683-b1fc-81455f01826f)
 ![view2-t1](https://github.com/Nasim1380p/project1-template1-flex/assets/155636802/a225379f-4ac9-4450-88e2-1b5b12e382d7)
