@@ -2,7 +2,7 @@
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![view1](https://github.com/Nasim1380p/second/assets/155636802/8c688bb5-c8d4-469f-990c-f48db62c368f)
+![view-t1](https://github.com/Nasim1380p/project1-template1-flex/assets/155636802/027cb01a-98f2-4683-b1fc-81455f01826f)
 
 - [Demo Project](https://nasim1380p.github.io/project1-template1-flex/)
 
