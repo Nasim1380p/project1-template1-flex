@@ -4,7 +4,7 @@
 
 ![view1](https://github.com/Nasim1380p/second/assets/155636802/8c688bb5-c8d4-469f-990c-f48db62c368f)
 
-- [Demo Project](https://nasim1380p.github.io/second/)
+- [Demo Project](https://nasim1380p.github.io/project1-template1-flex/)
 
 - 👩‍🎓 Developed by nasim pirghollo
 
